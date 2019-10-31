@@ -1,4 +1,2 @@
 # FDMS
-A Faculty Details Management System that keeps record of every Faculty and provides efficient searching.
-Complete System providing features to insert,delete the record of a faculty of a particular branch.
-Efficient Searching implemented with the help of TRIE Data Structure.
+A Faculty Details Management System is a sytem that keeps record of every Faculty. The CRUD operations are provided and also effecient searching is implemened with the help of TRIE Data Structure.
